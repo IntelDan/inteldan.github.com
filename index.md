@@ -45,6 +45,6 @@ tagline: Supporting tagline
     <li><span>24 Aug 2013</span> &raquo; <a href="/tutorials/2013/08/24/use-github-and-jekyll-to-establish-blog">用 github+jekyll 搭建个人 blog</a></li>
 
     <li><span>24 Aug 2013</span> &raquo; <a href="/test/2013/08/24/hello-world">Hello World</a></li>
-    <li><span>24 Nov 2014</span> &raquo; <a href="/Welcome/2014/11/24/hello-world">Hello World!</a></li>
+    <li><span>24 Nov 2014</span> &raquo; <a href="/2014/11/24/hello-world">Hello World!</a></li>
 
 </ul>
