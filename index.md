@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CoderX
-tagline: Supporting tagline
+tagline: a coder lives  in linux with emacs
 ---
 
 <ul class="posts">
