@@ -4,7 +4,7 @@
  <title>IntelDan</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2014-11-24T01:26:45+08:00</updated>
+ <updated>2014-11-24T02:01:47+08:00</updated>
  <id>http://username.github.io</id>
  <author>
    <name>IntelDan</name>
@@ -22,9 +22,9 @@
  
  <entry>
    <title>Hello World!</title>
-   <link href="http://username.github.io/Welcome/2014/11/24/hello-world"/>
+   <link href="http://username.github.io/2014/11/24/hello-world"/>
    <updated>2014-11-24T00:00:00+08:00</updated>
-   <id>http://username.github.io/Welcome/2014/11/24/hello-world</id>
+   <id>http://username.github.io/2014/11/24/hello-world</id>
    <content type="html">&lt;h1 id='hello_world'&gt;Hello World!&lt;/h1&gt;
 
 &lt;h2 id='first_post_in_githubjekyllmarkdown'&gt;First post in github+jekyll+markdown&lt;/h2&gt;</content>

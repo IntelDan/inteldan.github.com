@@ -5,8 +5,8 @@
         <description>IntelDan - IntelDan</description>
         <link>http://username.github.io</link>
         <link>http://username.github.io</link>
-        <lastBuildDate>2014-11-24T01:26:45+08:00</lastBuildDate>
-        <pubDate>2014-11-24T01:26:45+08:00</pubDate>
+        <lastBuildDate>2014-11-24T02:01:47+08:00</lastBuildDate>
+        <pubDate>2014-11-24T02:01:47+08:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -23,8 +23,8 @@
                 <description>&lt;h1 id='hello_world'&gt;Hello World!&lt;/h1&gt;
 
 &lt;h2 id='first_post_in_githubjekyllmarkdown'&gt;First post in github+jekyll+markdown&lt;/h2&gt;</description>
-                <link>http://username.github.io/Welcome/2014/11/24/hello-world</link>
-                <guid>http://username.github.io/Welcome/2014/11/24/hello-world</guid>
+                <link>http://username.github.io/2014/11/24/hello-world</link>
+                <guid>http://username.github.io/2014/11/24/hello-world</guid>
                 <pubDate>2014-11-24T00:00:00+08:00</pubDate>
         </item>
 

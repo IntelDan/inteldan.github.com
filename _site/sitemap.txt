@@ -1,6 +1,7 @@
 
 http://username.github.io/categories.html
 http://username.github.io/sitemap.txt
+http://username.github.io/pages/about/index.html
 http://username.github.io/tags.html
 http://username.github.io/index.html
 http://username.github.io/atom.xml
@@ -9,4 +10,4 @@ http://username.github.io/rss.xml
 http://username.github.io/pages.html
 
 http://username.github.io/2014/11/24/new-post
-http://username.github.io/Welcome/2014/11/24/hello-world
+http://username.github.io/2014/11/24/hello-world
