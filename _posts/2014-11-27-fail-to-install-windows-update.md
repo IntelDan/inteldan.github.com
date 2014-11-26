@@ -7,4 +7,4 @@ tags: []
 ---
 {% include JB/setup %}
 
-<marquee bgcolor="green"  behavior=left Scroll amount=5> <font color="white">插入几行代码用tab或者四个空格</marquee> </font>
+<marquee bgcolor="red"  behavior=left scroll amount=5> <font color="red">插入几行代码用tab或者四个空格</marquee> </font>
