@@ -1,11 +1,12 @@
 ---
 layout: page
 title: CoderX
-tagline: a coder lives  in linux with emacs
+tagline: a coder lives in linux with emacs
 ---
+{% include JB/setup %}
 
 <ul class="posts">
-
-    <li><span>24 Nov 2014</span> &raquo; <a href="/2014/11/24/hello-world">Hello World!</a></li>
-
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
 </ul>
