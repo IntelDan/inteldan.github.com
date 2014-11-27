@@ -7,7 +7,7 @@ tags: ['8127', 'embedded']
 ---
 {% include JB/setup %}
 
-The other method to flash uboot or uImage to 8127.
+The other method to flash uboot or uImage to 8127 nand flash.
 
 The process is :
 
