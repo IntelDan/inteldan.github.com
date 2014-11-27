@@ -15,4 +15,4 @@ The process is :
     cat /proc/mtd
     mount /dev/mmcblock0p1 /media
     /*xx represent uboot or uImage ,x represent the nand flash block number*/
-    cp /media/xx /dev/mtdblockx 
+    cp /media/xx /dev/mtdx 
