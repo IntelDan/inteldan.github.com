@@ -2,7 +2,7 @@
 layout: post
 title: "flash system files from sd card to nand flash"
 description: ""
-category: 'embedded' , '8127'
+category: 'embedded'
 tags: ['8127', 'embedded']
 ---
 {% include JB/setup %}
