@@ -8,7 +8,7 @@ tags: ['8127', 'embedded']
 {% include JB/setup %}
 
 The other method to flash uboot or uImage to 8127 nand flash.
-
+(After the system started up using sd card.)
 The process is :
 
     mknod /dev/mtdblock
