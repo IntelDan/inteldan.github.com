@@ -32,5 +32,5 @@ deb-src http://mirrors.163.com/ubuntu/ trusty-backports main restricted universe
 
 I only past the source of 163 mirror, and now it works well.
 
-Install the x86 architecture in x64 os:  
+Install the x86 architecture in x64 os  
 > sudo dpkg --add-architecture i386
