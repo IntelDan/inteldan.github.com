@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "faile to install build essential"
+title: "fail to install build essential"
 description: ""
 category: "ubuntu"
 tags: ['ubuntu', 'source.list']
@@ -20,6 +20,6 @@ out about any ubuntu version. It seems to work well after I change the source to
 may be my source.list. So I search the 14.04LTS source, and change again. It works well.
 
 
-> [http://chenrongya.blog.163.com/blog/static/8747419620143185103297/]http://chenrongya.blog.163.com/blog/static/8747419620143185103297/
+> [http://chenrongya.blog.163.com/blog/static/8747419620143185103297/](http://chenrongya.blog.163.com/blog/static/8747419620143185103297/)
 
 I only past the source of 163 mirror, and now it works well.
