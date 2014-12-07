@@ -17,5 +17,14 @@ The process is :
     mknod /dev/mtdblock
     cat /proc/mtd
     mount /dev/mmcblock0p1 /media
+    /*x represent the nand flash block number, if we need to refresh the block in the furture*/
+    flash_erase /dev/mtdx
     /*xx represent uboot or uImage ,x represent the nand flash block number*/
-    cp /media/xx /dev/mtdx 
+    cp /media/xx /dev/mtdblockx
+    
+Careful:
+
+- mtdx is a  char device.
+- mtdblockx is a block device
+
+TODO: [more conclude](http://my.oschina.net/shelllife/blog/123482)
