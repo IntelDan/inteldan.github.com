@@ -22,3 +22,10 @@ sudo rm /var/lib/NetworkManager/NetworkManager.state
 sudo service network-manager start
 
 Then my network icon is well-looking.
+
+*TODO*
+When I upgraded the 10.04, I have finished many problem.  
+One which is very weried I changed the disk interface twice times.
+* After restart, I can't enter OS only with a blinking cursor. I change the interface frome AHCI to IDE.
+* When I success installing the update package, the problem is the same to last one except the blinking area is more huge.
+Then I change the interface back to AHCI.
