@@ -1,0 +1,24 @@
+---
+layout: post
+title: "make the netwok icon of Ubuntu12.04 working properly"
+description: ""
+category: 'Ubuntu'
+tags: ['network', 'Ubuntu']
+---
+{% include JB/setup %}
+**After** upgrading my ubuntu from 10.04 to 12.04, there is still a problem that my network is working, but the netwok icon in is always a state that my network is bad which with a red cross.
+
+Open the file with root previllege
+
+> /etc/NetworkManager/NetworkManager.conf
+
+    [ifupdown]  
+    managed=false
+
+Then change the false to true and use these command to restart the networkManager.
+
+> sudo service network-manager stop  
+sudo rm /var/lib/NetworkManager/NetworkManager.state
+sudo service network-manager start
+
+Then my network icon is well-looking.
